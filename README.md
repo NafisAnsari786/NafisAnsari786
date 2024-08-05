@@ -12,6 +12,6 @@
 
 ## 📫 Contact Me
 - [Email](mailto:nafisansari7745@gmail.com)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/nafis-ansari-63878b182/)
+- [LinkedIn]([https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/nafis-ansari-63878b182/))
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=NafisAnsari786&show_icons=true&theme=radical)
