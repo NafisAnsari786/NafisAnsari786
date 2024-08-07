@@ -19,7 +19,7 @@
 ## 🏆 HackerRank Skills
 <div style="animation: slideIn 3s ease-in-out;">
   - Python: ![Python Badge](https://img.shields.io/badge/Python-5%20stars-brightgreen)
-  - SQL: ![SQL Badge](https://img.shields.io/badge/SQL-4%20stars-blue)
+  - SQL: ![SQL Badge]([https://img.shields.io/badge/SQL-4%20stars-blue](https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql))
   - Problem Solving: ![Problem Solving Badge](https://img.shields.io/badge/Problem%20Solving-5%20stars-yellow)
 </div>
 
