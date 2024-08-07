@@ -17,8 +17,7 @@
 ## 🏆 HackerRank Skills
 Here are some of my coding skills on HackerRank:
 
-- **Python**: ![Python Badge](https://img.shields.io/badge/Python-5%20stars-brightgreen)
+- **Python**: ![Python Badge](https://img.shields.io/badge/Python-2%20stars-brightgreen)
 - **SQL**: ![SQL Badge](https://img.shields.io/badge/SQL-4%20stars-blue)
-- **Problem Solving**: ![Problem Solving Badge](https://img.shields.io/badge/Problem%20Solving-5%20stars-yellow)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=NafisAnsari786&show_icons=true&theme=radical)
