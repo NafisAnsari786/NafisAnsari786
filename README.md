@@ -1,5 +1,7 @@
 # Hi, I'm Nafis Ansari 👋
 
+<img src="https://your-image-host.com/animated-banner.gif" alt="Animated Banner" style="width:100%; height:auto;">
+
 ## 🚀 About Me
 - 🌱 I’m currently learning data analysis and web development.
 - 👨‍💻 I enjoy working with Python, SQL, Power BI, and Tableau.
