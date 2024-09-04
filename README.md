@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 🌱 I’m currently learning data analysis and web development.
 - 👨‍💻 I enjoy working with Python, SQL, Power BI, and Tableau.  
-- 🎮 In my free time, I play football, badminton, and video games.
+- 🎮 In my free time, I play football, badminton, and video games. 
 
 ## 💼 Projects
 - [Covid 19 Data Exploration](https://github.com/NafisAnsari786/PortfolioProjects/tree/main/Covid%2019%20Data%20Exploration): Understanding the spread and impact of the pandemic across different regions using various SQL techniques to explore and analyze COVID-19 data.
