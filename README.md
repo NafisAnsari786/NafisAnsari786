@@ -4,7 +4,7 @@
   
 ## 🚀 About Me
 - 🌱 I’m currently learning data analysis and web development.
-- 👨‍💻 I enjoy working with Python, SQL, Power BI, and Tableau.
+- 👨‍💻 I enjoy working with Python, SQL, Power BI, and Tableau. 
 - 🎮 In my free time, I play football, badminton, and video games.
 
 ## 💼 Projects
