@@ -9,7 +9,7 @@
 
 ## 💼 Projects
 - [Covid 19 Data Exploration](https://github.com/NafisAnsari786/PortfolioProjects/tree/main/Covid%2019%20Data%20Exploration): Understanding the spread and impact of the pandemic across different regions using various SQL techniques to explore and analyze COVID-19 data.
-- [Portfolio Website](https://github.com/NafisAnsari786/Nafis.github.io): A responsive website built with HTML, CSS, and Bootstrap showcasing my work.
+- [Portfolio Website](https://github.com/NafisAnsari786/Nafis.github.io): A responsive website built with HTML, CSS, and Bootstrap showcasing my work. 
 - [British Airways Reviews Dashboard](https://github.com/NafisAnsari786/PortfolioProjects/tree/main/British%20Airways%20Reviews): A data analysis project visualizing customer feedback using Tableau.
  
 ## 📫 Contact Me
