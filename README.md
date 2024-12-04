@@ -14,7 +14,7 @@
  
 ## 📫 Contact Me
 - [Email](mailto:nafisansari7745@gmail.com)
-- <img scr="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">[LinkedIn](https://www.linkedin.com/in/nafis-ansari-63878b182/) 
+- [LinkedIn](https://www.linkedin.com/in/nafis-ansari-63878b182/) 
 - [GitHub](https://github.com/NafisAnsari786) 
 - [Instagram](https://www.instagram.com/nafis.ansari_/)
 
