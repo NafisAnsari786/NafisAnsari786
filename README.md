@@ -8,8 +8,8 @@
 - 🎮 In my free time, I play football, badminton, and video games. 
 
 ## 💼 Projects
-- [Covid 19 Data Exploration](https://github.com/NafisAnsari786/PortfolioProjects/tree/main/Covid%2019%20Data%20Exploration): Understanding the spread and impact of the pandemic across different regions using various SQL techniques to explore and analyze COVID-19 data.
-- [Portfolio Website](https://github.com/NafisAnsari786/Nafis.github.io): A responsive website built with HTML, CSS, and Bootstrap showcasing my work. 
+- [Real Estate Price Prediction](https://github.com/NafisAnsari786/PortfolioProjects/tree/main/Real%20Estate%20Price%20Prediction): Developed an end-to-end machine learning solution to predict real estate prices in Bangalore, leveraging advanced data preprocessing, feature engineering, and regression modeling with Scikit-learn to achieve accurate and reliable predictions.
+- [Loan Default Prediction](https://github.com/NafisAnsari786/PortfolioProjects/tree/main/Loan%20Default%20Prediction): A machine learning model designed to predict loan defaults, handling imbalanced datasets effectively.
 - [British Airways Reviews Dashboard](https://github.com/NafisAnsari786/PortfolioProjects/tree/main/British%20Airways%20Reviews): A data analysis project visualizing customer feedback using Tableau. 
  
 ## 📫 Contact Me
