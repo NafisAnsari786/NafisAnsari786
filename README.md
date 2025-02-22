@@ -31,6 +31,26 @@
 ![PowerBI Badge](https://img.shields.io/badge/PowerBI-Data%20Viz-yellow)
 ![Tableau Badge](https://img.shields.io/badge/Tableau-Data%20Visualization-lightblue)
 
+<p align="center">
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C80F?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+  
+  <!-- ML & Data Science -->
+  <img src="https://img.shields.io/badge/Machine_Learning-FF5722?style=for-the-badge&logo=none&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/EDA-00BCD4?style=for-the-badge&logo=none&logoColor=white" alt="Exploratory Data Analysis" />
+  <img src="https://img.shields.io/badge/Feature_Engineering-FFEB3B?style=for-the-badge&logo=none&logoColor=white" alt="Feature Engineering" />
+  
+  <!-- Frameworks & Deployment -->
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+
 
 ## 🏆 HackerRank Skills
 Here are some of my coding skills on HackerRank:
