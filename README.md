@@ -26,11 +26,6 @@
 
 ## 🛠 Skills
 
-![Python Badge](https://img.shields.io/badge/Python-Expert-blue)
-![SQL Badge](https://img.shields.io/badge/SQL-Intermediate-green)
-![PowerBI Badge](https://img.shields.io/badge/PowerBI-Data%20Viz-yellow)
-![Tableau Badge](https://img.shields.io/badge/Tableau-Data%20Visualization-lightblue)
-
 <p align="center">
   <!-- Programming & Analytics -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
