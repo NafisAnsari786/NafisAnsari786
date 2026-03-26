@@ -15,6 +15,7 @@ Hi there! I'm a data professional transitioning into Data Engineering and Analyt
 ### [End-to-End Azure Data Engineering Pipeline](https://github.com/NafisAnsari786/Netflix_Azure_Data_Engineering_Project):
 
 Architecture & Tech Stack: `Azure Data Factory` | `Azure Data Lake (ADLS Gen2)` | `Databricks` | `PySpark` | `Delta Live Tables ` | `SQL` | `Python` |
+
 Architected and deployed a scalable ELT (Extract, Load, Transform) pipeline in Microsoft Azure to process, clean, and analyze Netflix content data. Designed the system utilizing a Medallion Architecture (Bronze, Silver, Gold layers) to ensure high data quality and optimized performance for downstream analytics.
 - Data Ingestion & Storage: Engineered automated workflows to extract raw data and securely land it into Azure Data Lake Storage (ADLS Gen2).
 - Distributed Transformation: Developed robust, distributed data transformation scripts using PySpark and Databricks to handle complex data cleaning, joining, and aggregation.
