@@ -12,9 +12,13 @@ Hi there! I'm a data professional transitioning into Data Engineering and Analyt
 - 🎮 Fun Fact: When I'm not writing SQL queries, you can find me playing football, badminton, or video games.
 
 ## 💼 Projects
-- [Real Estate Price Prediction](https://github.com/NafisAnsari786/PortfolioProjects/tree/main/Real%20Estate%20Price%20Prediction): Developed an end-to-end machine learning solution to predict real estate prices in Bangalore, leveraging advanced data preprocessing, feature engineering, and regression modeling with Scikit-learn to achieve accurate and reliable predictions.
-- [Loan Default Prediction](https://github.com/NafisAnsari786/PortfolioProjects/tree/main/Loan%20Default%20Prediction): A machine learning model designed to predict loan defaults, handling imbalanced datasets effectively.
-- [British Airways Reviews Dashboard](https://github.com/NafisAnsari786/PortfolioProjects/tree/main/British%20Airways%20Reviews): A data analysis project visualizing customer feedback using Tableau. 
+- [End-to-End Azure Data Engineering Pipeline](https://github.com/NafisAnsari786/Netflix_Azure_Data_Engineering_Project):
+Architecture & Tech Stack: `Azure Data Factory` | `Azure Data Lake (ADLS Gen2)` | `Databricks` | `PySpark` | `Delta Live Tables ` | `SQL` | `Python` |
+Architected and deployed a scalable ELT (Extract, Load, Transform) pipeline in Microsoft Azure to process, clean, and analyze Netflix content data. Designed the system utilizing a Medallion Architecture (Bronze, Silver, Gold layers) to ensure high data quality and optimized performance for downstream analytics.
+- Data Ingestion & Storage: Engineered automated workflows to extract raw data and securely land it into Azure Data Lake Storage (ADLS Gen2).
+- Distributed Transformation: Developed robust, distributed data transformation scripts using PySpark and Databricks to handle complex data cleaning, joining, and aggregation.
+- Orchestration: Orchestrated the end-to-end data lifecycle, ensuring reliable scheduling and monitoring of the data pipeline.
+
  
 ## 📫 Contact Me
 - [Email](mailto:nafisansari7745@gmail.com)
