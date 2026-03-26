@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated Banner" style="width:100%; height:auto;">   
   
 ## 🚀 About Me
-Hi there! I'm a data professional and “I build end-to-end data engineering and analytics projects using SQL, PySpark, Databricks, Azure, and Power BI. My work focuses on ETL pipelines, data transformation, medallion architecture, analytics reporting, and interview-ready real-world case studies.”
+Hi there! I'm a data professional and I build end-to-end data engineering and analytics projects using SQL, PySpark, Databricks, Azure, and Power BI. My work focuses on ETL pipelines, data transformation, medallion architecture, analytics reporting, and interview-ready real-world case studies.”
 
 - 🛠️ Current Focus: Architecting end-to-end ELT/ETL pipelines using Azure, Databricks, PySpark, and SQL.
 
