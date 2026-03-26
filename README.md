@@ -3,9 +3,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated Banner" style="width:100%; height:auto;">   
   
 ## 🚀 About Me
-- 🌱 Currently learning data analysis and ML Engineering, aiming to become proficient in building predictive models and insightful visualizations.
-- 👨‍💻 I enjoy working with Python, SQL, Power BI, and Tableau.  
-- 🎮 In my free time, I play football, badminton, and video games. 
+Hi there! I'm a data professional transitioning into Data Engineering and Analytics Engineering. I specialize in building robust data pipelines, modern data architecture, and transforming raw data into actionable insights. 
+
+- 🛠️ Current Focus: Architecting end-to-end ELT/ETL pipelines using Azure, Databricks, PySpark, and SQL.
+
+- 📊 Background: Experienced in data analysis, visualization (Tableau/PowerBI), and predictive modeling.
+
+- 🎮 Fun Fact: When I'm not writing SQL queries, you can find me playing football, badminton, or video games.
 
 ## 💼 Projects
 - [Real Estate Price Prediction](https://github.com/NafisAnsari786/PortfolioProjects/tree/main/Real%20Estate%20Price%20Prediction): Developed an end-to-end machine learning solution to predict real estate prices in Bangalore, leveraging advanced data preprocessing, feature engineering, and regression modeling with Scikit-learn to achieve accurate and reliable predictions.
