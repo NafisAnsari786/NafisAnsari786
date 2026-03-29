@@ -64,9 +64,6 @@ Architected and deployed a scalable ELT (Extract, Load, Transform) pipeline in M
 - **SQL**: ![SQL Badge](https://img.shields.io/badge/SQL-5%20stars-gold) *(Advanced querying, joins, and aggregations)*
 - **Python**: ![Python Badge](https://img.shields.io/badge/Python-4%20stars-blue) *(Data structures, algorithms, and logic)*
 
-<br>
-
-![Nafis Ansari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NafisAnsari786&show_icons=true&theme=radical)
 
 
 
